@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Live challenge transcripts and local solver state
+gyanganj_*_run.jsonl
+gyanganj_*_state.json
+gyanganj_*_summary.json
+gyanganj_*_audit.json
+gyanganj_*_answers.txt
+gyanganj_*_log_*.json
+
+# Local source material and generated OCR/model data
+*.pdf
+*.traineddata
+gyanganj_v14_book_ocr.txt
+gyanganj_v13_book_notes.json
